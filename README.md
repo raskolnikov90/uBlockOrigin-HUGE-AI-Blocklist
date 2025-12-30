@@ -1,3 +1,5 @@
+(forked this repo to add startpage)
+
 # uBlockOrigin & uBlacklist Huge AI Blocklist
 A huge blocklist of manually curated sites (1000+) that contain AI generated content, for the purposes of cleaning image search engines (Google Search, DuckDuckGo, and Bing) with uBlock Origin or uBlacklist. 
 
